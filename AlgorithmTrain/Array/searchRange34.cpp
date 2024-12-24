@@ -61,10 +61,10 @@ private:
     }
 };
 
-int main() {
-    vector<int> nums = {2, 2};
-    int target = 3;
-    Solution s;
-    cout << s.searchRange(nums, target)[0] << "\t" << s.searchRange(nums, target)[1] << endl;
-    return 0;
-}
+//int main() {
+//    vector<int> nums = {2, 2};
+//    int target = 3;
+//    Solution s;
+//    cout << s.searchRange(nums, target)[0] << "\t" << s.searchRange(nums, target)[1] << endl;
+//    return 0;
+//}
