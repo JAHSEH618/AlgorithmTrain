@@ -13,7 +13,7 @@ using namespace std;
 class Solution {
 public:
     int searchInsert(vector<int>& nums, int target) {
-        int pos;
+        int pos = -1;
         int middle;
         int left = 0;
         int right =(int) nums.size() - 1;
