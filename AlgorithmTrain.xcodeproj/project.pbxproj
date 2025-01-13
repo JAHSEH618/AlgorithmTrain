@@ -22,9 +22,22 @@
 		31EB96372D09EFC5004B1D9F /* AlgorithmTrain */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTrain; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		312B3BD62D355209009018C3 /* Exceptions for "AlgorithmTrain" folder in "AlgorithmTrain" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Array/searchInsert35.cpp,
+			);
+			target = 31EB96362D09EFC5004B1D9F /* AlgorithmTrain */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		31EB96392D09EFC5004B1D9F /* AlgorithmTrain */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				312B3BD62D355209009018C3 /* Exceptions for "AlgorithmTrain" folder in "AlgorithmTrain" target */,
+			);
 			path = AlgorithmTrain;
 			sourceTree = "<group>";
 		};

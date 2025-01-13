@@ -29,9 +29,9 @@ public:
     }
 };
 
-int main() {
-    vector<int> nums = {0,0};
-    Solution s;
-    cout << s.removeDuplicates(nums) << endl;
-    return 0;
-}
+//int main() {
+//    vector<int> nums = {0,0};
+//    Solution s;
+//    cout << s.removeDuplicates(nums) << endl;
+//    return 0;
+//}
