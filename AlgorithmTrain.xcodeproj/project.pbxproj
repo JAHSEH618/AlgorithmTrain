@@ -26,7 +26,7 @@
 		312B3BD62D355209009018C3 /* Exceptions for "AlgorithmTrain" folder in "AlgorithmTrain" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Array/searchInsert35.cpp,
+				Array/35searchInsert.cpp,
 			);
 			target = 31EB96362D09EFC5004B1D9F /* AlgorithmTrain */;
 		};
