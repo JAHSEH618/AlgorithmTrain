@@ -27,14 +27,14 @@ public:
     }
 };
 
-int main() {
-    vector<int> nums = {0};
-    Solution s;
-    s.moveZeroes(nums);
-    cout << endl;
-    for (int i = 0; i < nums.size(); i++) {
-        cout << nums[i] << "\t";
-    }
-    cout << endl;
-    return 0;
-}
+//int main() {
+//    vector<int> nums = {0};
+//    Solution s;
+//    s.moveZeroes(nums);
+//    cout << endl;
+//    for (int i = 0; i < nums.size(); i++) {
+//        cout << nums[i] << "\t";
+//    }
+//    cout << endl;
+//    return 0;
+//}
